@@ -5,3 +5,4 @@ Bem vindo ao livro de receitas TAPRORA MENOH
 
 
 - Strogonoff de frango
+- Linguiça
